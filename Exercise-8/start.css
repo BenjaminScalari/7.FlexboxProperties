@@ -1,0 +1,26 @@
+#container {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+
+#yellow {
+  order: 1;
+}
+
+#red {
+  order: 2;
+}
+
+#green {
+  order: 3;
+}
+
+#orange {
+  flex: 3;
+  order: 4;
+}
+
+#blue {
+order: 5;
+}
